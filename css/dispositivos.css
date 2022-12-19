@@ -1,0 +1,32 @@
+.container__dispositivos{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.dispositivos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.container__titulo{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+
+.dispositivo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.dispositivo__titulo{
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 16px;
+}
