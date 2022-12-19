@@ -1,0 +1,29 @@
+.sobre{
+    align-items: center;
+    margin: 0 12rem;
+}
+
+.sobre__imagem{
+    width: 70%;
+}
+
+.sobre__titulo{
+    font-weight: 700;
+    font-size: 48px;
+    margin-bottom: 8px;
+}
+
+.sobre__texto{
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--cinza-secundario);
+}
+
+.sobre__botao{
+    display: inline-block;
+    margin-top: 1rem;
+}
+
+.sobre__descricao{
+    padding: 2em;
+}
